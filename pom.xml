@@ -7,28 +7,38 @@
 <artifactId>sun.crypto</artifactId>
 <version>1.0</version>
 
+<description>PBKDF2 with HmacSHA512 psuedo random function(PRF)</description>
+<url>https://github.com/ivan-golubev/sun.crypto.git</url>
+
+<licenses>
+    <license>
+        <name>GNU General Public License version 2</name>
+        <url>http://www.gnu.org/licenses/gpl-2.0.txt</url>
+        <distribution>repo</distribution>
+    </license>
+</licenses>
+<inceptionYear>2015</inceptionYear>
+
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>    
 </properties>
 
-
 <build>
-<plugins>
-    <plugin>
-      <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-source-plugin</artifactId>
-      <executions>
-        <execution>
-          <id>attach-sources</id>
-          <goals>
-            <goal>jar</goal>
-          </goals>
-        </execution>
-      </executions>
-    </plugin>
-</plugins>
+    <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-source-plugin</artifactId>
+          <executions>
+            <execution>
+              <id>attach-sources</id>
+              <goals>
+                <goal>jar</goal>
+              </goals>
+            </execution>
+          </executions>
+        </plugin>
+    </plugins>
 </build>
-
 
 </project>
