@@ -9,7 +9,7 @@
 
 <name>pbkdf2 with sha512</name>
 <description>PBKDF2 with HmacSHA512 psuedo random function(PRF)</description>
-<url>https://github.com/ivan-golubev/sun.crypto.git</url>
+<url>https://github.com/ivan-golubev/pbkdf2-sha512.git</url>
 
 <licenses>
     <license>
@@ -21,7 +21,7 @@
 <inceptionYear>2015</inceptionYear>
 
 <scm>
-    <url>https://github.com/ivan-golubev/sun.crypto.git</url>
+    <url>https://github.com/ivan-golubev/pbkdf2-sha512.git</url>
 </scm>
 
 <properties>

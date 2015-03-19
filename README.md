@@ -1,4 +1,4 @@
-# sun.crypto
+# Password-based key derivation function 2 with SHA512
 
 PBKDF2 with HmacSHA512 psuedo random function(PRF) as defined in  PKCS#5 v2.0.
 
