@@ -1,4 +1,4 @@
-package net.ivango.com.sun.crypto.provider;
+package net.ivango.pbkdf2sha512;
 
 /*
  * Copyright (c) 2005, 2009, Oracle and/or its affiliates. All rights reserved.
