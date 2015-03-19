@@ -24,6 +24,18 @@
     <url>https://github.com/ivan-golubev/pbkdf2-sha512.git</url>
 </scm>
 
+<developers>
+    <developer>
+        <id>ivan_golubev</id>
+        <name>Ivan Golubev</name>
+        <email>ivan.golubev.spb@gmail.com</email>
+        <roles>
+            <role>developer</role>
+        </roles>
+        <timezone>Europe/Moscow</timezone>
+    </developer>
+</developers>
+
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
