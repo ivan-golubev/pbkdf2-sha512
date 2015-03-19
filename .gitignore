@@ -1,0 +1,24 @@
+# files and folders to be ignored by Mercurial VCS
+# use glob syntax.
+syntax: glob
+
+# ignore Mac OS X files
+.DS_Store
+
+# ignore Intellij IDEA files
+.idea/
+*.iml
+
+# ignore netbeans files
+nbproject/
+build/
+dist/
+
+# ignore eclipse files
+.classpath
+.project
+.settings/
+
+# ignore the target folder
+target/
+
