@@ -23,7 +23,7 @@
  * questions.
  */
 
-package net.ivango.pbkdf2sha512;
+package com.github.ivangolubev.pbkdf2sha512;
 
 import java.io.ObjectStreamException;
 import java.nio.ByteBuffer;
